@@ -3,7 +3,7 @@
 
 ## 📊 Project Overview
 
-This project is a self-driven analytics case study designed to explore and analyze restaurant, orders, riders data using SQL. Using a simulated Zomato-like dataset, I created an end-to-end analytics pipeline — from designing a relational database schema to writing analytical queries that provide deep insights into customer behavior, restaurant performance, rider efficiency, and more.
+This project is a self-driven analytics case study designed to explore and analyze restaurant, orders, riders data using SQL. Using a simulated Zomato-like dataset, I created an end-to-end analytics pipeline, from designing a relational database schema to writing analytical queries that provide deep insights into customer behavior, restaurant performance, rider efficiency, and more.
 
 ## 📁 Dataset and Schema
 
