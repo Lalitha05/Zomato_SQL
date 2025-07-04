@@ -1,8 +1,8 @@
-# 🍽️ Zomato SQL Analytics Project
+# 🍽️ Swiggy SQL Analytics Project
 
 ## 📊 Project Overview
 
-This is a self-initiated SQL analytics case study using a simulated Zomato-like food delivery dataset. The objective is to demonstrate end-to-end SQL capabilities: from relational schema design to advanced querying for generating business insights.
+This is a self-initiated SQL analytics case study using a simulated Swiggy-like food delivery dataset. The objective is to demonstrate end-to-end SQL capabilities: from relational schema design to advanced querying for generating business insights.
 
 ### Key Objectives
 
@@ -15,7 +15,7 @@ This is a self-initiated SQL analytics case study using a simulated Zomato-like 
 
 ## 📂 Dataset and Schema
 
-The database, `zomato_db`, consists of five relational tables:
+The database, `swiggy_db`, consists of five relational tables:
 
 ### 📌 Table Structures
 
@@ -62,8 +62,9 @@ The database, `zomato_db`, consists of five relational tables:
 ## 🛠️ Database Setup
 
 ```sql
-CREATE DATABASE zomato_db;
-USE zomato_db;
+CREATE DATABASE swiggy_db;
+
+USE swiggy_db;
 
 CREATE TABLE customers (
   customer_id INT PRIMARY KEY,
